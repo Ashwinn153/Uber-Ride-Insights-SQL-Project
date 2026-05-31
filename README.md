@@ -13,61 +13,61 @@ The project contains 3 tables:
 
 Contains ride-related information:
 
-ride_id
-driver_id
-passenger_id
-pickup & dropoff locations
-ride distance
-fare amount
-payment methods
+- ride_id
+- driver_id
+- passenger_id
+- pickup & dropoff locations
+- ride distance
+- fare amount
+- payment methods
 
 2. Drivers
 
 Contains driver details:
 
-driver_id
-driver_name
-rating
-earnings
-total rides
+- driver_id
+- driver_name
+- rating
+- earnings
+- total rides
 
 3. Passengers
 
 Contains passenger details:
 
-passenger_name
-total rides
-total spent
-ratings
+- passenger_name
+- total rides
+- total spent
+- ratings
 
 # SQL Concepts Used
 
-SELECT
-WHERE
-GROUP BY
-ORDER BY
-LIMIT
-Aggregate Functions
-Subqueries
-JOINS
-HAVING
-DISTINCT
-Date Functions
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Aggregate Functions
+- Subqueries
+- JOINS
+- HAVING
+- DISTINCT
+- Date Functions
 
 # Key Analysis Performed
 
-Top earning drivers
-Most common pickup locations
-Monthly fare analysis
-Passenger spending analysis
-Payment method trends
-Ride distribution percentage
-Average fare calculations
+- Top earning drivers
+- Most common pickup locations
+- Monthly fare analysis
+- Passenger spending analysis
+- Payment method trends
+- Ride distribution percentage
+- Average fare calculations
 
 # Files Included
 
-UBER.sql
-Drivers.csv
+- UBER.sql
+- Drivers.csv
 Passengers.csv
 Rides.csv
 
