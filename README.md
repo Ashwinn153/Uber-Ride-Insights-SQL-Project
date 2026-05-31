@@ -68,9 +68,9 @@ Contains passenger details:
 
 - UBER.sql
 - Drivers.csv
-Passengers.csv
-Rides.csv
+- Passengers.csv
+- Rides.csv
 
 # Tools Used
-MySQL
-VSCODE
+- MySQL
+- VSCODE
